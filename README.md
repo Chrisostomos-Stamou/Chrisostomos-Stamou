@@ -3,4 +3,8 @@
 - 🌱 I’m currently working on ways to improve cosmic shear measurements, which is a powerful probe for placing constraints on Cosmology
 - 📫 You can reach me via email: cstammc@gmail.com , or my institutional account: c.p.stamou@umail.leidenuniv.nl
 
-Near future: I will soon create a personal website, where more information will be available.
+NEAR FUTURE: 
+
+1) I will create a public repository, containing calculations of shear correlation functions by using TreeCorr. These calculations were done as a part of an MSc project.
+
+2) I will soon create a personal website, where more information will be available.
